@@ -23,7 +23,7 @@ library
   ghc-options:      -Wall
   build-depends:    base        >=4.7      && <4.12
                   , http-media  >=0.6.2    && <0.8
-                  , servant     >=0.4.4.5  && <0.13
+                  , servant     >=0.4.4.5  && <0.14
                   , iCalendar   >=0.4      && <0.5
                   , data-default>=0.3      && <0.8
   exposed-modules:  Servant.ICalendar
